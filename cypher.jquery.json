@@ -1,0 +1,32 @@
+{
+    "name": "cypher",
+    "title": "jQuery Cypher",
+    "description": "jQuery plugin for encryp and decryp data.",
+    "keywords": [
+        "cypher",
+        "encry",
+        "encriptar",
+        "desencriptar"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Edgar E. C. Mtz",
+        "url": "https://github.com/zeroxragde/jquery.cypher"
+    },
+    "maintainers": [
+        {
+            "name": "ZeroXRagde",
+            "email": "ragde360@gmail.com",
+            "url": "https://github.com/zeroxragde/jquery.cypher"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/zeroxragde/jquery.cypher/blob/master/MIT-LICENSE.tx"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.7.2"
+    }
+}
